@@ -1,5 +1,2 @@
-FFLAGS DISABLED BY ROBLOX ITSELF.
+MeowStrap For mobile!
 
-DISCONTINUED
-
-chevstrap 2.0? no. thank you. 
